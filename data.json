@@ -1,0 +1,27 @@
+{
+    "profile": {
+        "name": "Ajay Kumar",
+        "role": "Assistant Professor",
+        "email": "ajaykumar.vvit@gmail.com",
+        "mobile": "+91 2345654321",
+        "linkedin": "linkedin.com"
+    },
+    "summary": [
+        "Overall experience in any field. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "UiPath certified Robotic Process Automation Developer - Advanced",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    ],
+    "skillset": [
+        {
+            "skill": "Web Technologies",
+            "technologies": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "skill": "Programming Languages",
+            "technologies": ["C", "C++", "C#", "Python", "Java", "R"]
+        }
+    ]
+}
